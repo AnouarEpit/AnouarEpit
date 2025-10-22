@@ -13,10 +13,10 @@ Currently studying at <strong>Epitech WebAcademy</strong>, I focus on building s
 <p> </p>
 
 <ul>
-<li>🎯 I’m currently working on <a href="https://mentor.love/">Mentor Bot</a> — a project focused on improving developer mentorship experiences.</li>
-<li>📚 I’m also taking the <a href="https://github.com/CodeYourFuture/immersive-go-course">Immersive Engineering Course</a>, a program dedicated to Site Reliability Engineering, developed by <strong>CodeYourFuture</strong> and <strong>Slack</strong>.</li>
-<li>🌱 I’m exploring <strong>Go, distributed systems, observability, and event-driven architectures</strong>.</li>
-<li>💬 Ask me about <strong>AWS, Terraform, TypeScript, React Native, and SQL/NoSQL databases</strong>.</li>
+<li>🚀 Currently working on modern web and mobile apps that combine performance, accessibility, and great design.</li>
+<li>🧩 Focused on mastering full-stack development with <strong>TypeScript, React, Node.js</strong> and <strong>React Native</strong>.</li>
+<li>🌱 Exploring clean architecture, scalable API design, and high-quality UI/UX practices.</li>
+<li>💬 Always happy to talk about <strong>frontend performance, mobile optimization, and developer experience</strong>.</li>
 </ul>
 
 <p> </p>
