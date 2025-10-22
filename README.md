@@ -5,7 +5,7 @@
 <hr>
 <h3 align="left">
 I'm a Web & Mobile Developer passionate about creating modern, accessible, and high-performance digital experiences.  
-Currently studying at <strong>Epitech WebAcademy</strong>, I focus on building scalable and user-centered applications — from prototype to production.# 💻 Tech Stack
+Currently studying at <strong>Epitech WebAcademy</strong>, I focus on building scalable and user centered applications from prototype to production.
 <hr>
 <p> </p>
 
@@ -22,8 +22,8 @@ Currently studying at <strong>Epitech WebAcademy</strong>, I focus on building s
 
 <h3 align="left">About me</h3>
 <p>
-I'm passionate about clean code and solid architecture — I love turning ideas into scalable, reliable, and elegant solutions.  
-What defines me? Adaptability. I learn fast, embrace new technologies, and enjoy diving into unfamiliar stacks — every challenge is an opportunity to grow.  
+I'm passionate about clean code and solid architecture. I love turning ideas into scalable, reliable, and elegant solutions.  
+What defines me? Adaptability. I learn fast, embrace new technologies, and enjoy diving into unfamiliar stacks every challenge is an opportunity to grow.  
 Whether it’s tools I know or ones I’m discovering, my goal is always the same: <strong>deliver quality through clarity and structure</strong>.
 </p>
 
