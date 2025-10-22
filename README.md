@@ -29,6 +29,17 @@ Whether it’s tools I know or ones I’m discovering, my goal is always the sam
 
 <hr>
 
+<h1 align="center">My Portfolio 👨‍💻 </h1>
+
+<p align="center">
+  <a href="https://anouar.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-anouar.dev-blue?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
+
+<hr>
+
+
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
