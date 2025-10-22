@@ -9,6 +9,8 @@ I'm a Web & Mobile Developer passionate about creating modern, accessible, and h
 Currently studying at <strong>Epitech WebAcademy</strong>, I focus on building scalable and user-centered applications — from prototype to production.
 </h3>
 <hr>
+<hr>
+
 <p> </p>
 
 <ul>
