@@ -28,7 +28,7 @@ Currently studying at <strong>Epitech WebAcademy</strong>, I focus on building s
 <p> </p>
 <hr>
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me 📚 </h3>
 <p>
 I'm passionate about clean code and solid architecture. I love turning ideas into scalable, reliable, and elegant solutions.  
 What defines me? Adaptability. I learn fast, embrace new technologies, and enjoy diving into unfamiliar stacks every challenge is an opportunity to grow.  
