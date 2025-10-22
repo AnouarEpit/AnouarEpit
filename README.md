@@ -8,7 +8,6 @@
 I'm a Web & Mobile Developer passionate about creating modern, accessible, and high-performance digital experiences.  
 Currently studying at <strong>Epitech WebAcademy</strong>, I focus on building scalable and user-centered applications — from prototype to production.
 </h3>
-
 <hr>
 <p> </p>
 
