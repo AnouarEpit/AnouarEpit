@@ -7,7 +7,8 @@
 <h3 align="left">
 I'm a Web & Mobile Developer passionate about creating modern, accessible, and high-performance digital experiences.  
 Currently studying at <strong>Epitech WebAcademy</strong>, I focus on building scalable and user-centered applications — from prototype to production.# 💻 Tech Stack
-
+<hr>
+<p> </p>
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
