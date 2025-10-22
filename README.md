@@ -1,7 +1,15 @@
-  <h1 align="center">Hi 👋, I'm Anouar </h1>
-  
-<img src="assets/anoaurheader.png" align="middle" alt="Imagen de cabecera de Anouar Khali">
+# <img width="50%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'm+Anouar+%F0%9F%91%8B">
 
+<br>
+
+<p>
+  <img align="right" src="https://komarev.com/ghpvc/?username=AnouarEpit&color=191717" alt="Profile views">
+  </p>
+
+  <img src="assets/anoaurheader.png" alt="Imagen de cabecera de Anouar Khali">
+
+
+<div style="clear: both;"></div>
 <hr>
 <h3 align="left">
 I'm a Web & Mobile Developer passionate about creating modern, accessible, and high-performance digital experiences.  
